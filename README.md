@@ -40,4 +40,4 @@ Coming Soon 🚀
 
 ## Connect With Me
 - GitHub: https://github.com/Vithalgiri06
-- LinkedIn: Add your LinkedIn here
+- LinkedIn:https://www.linkedin.com/in/vitthal-giri-0a0698310
