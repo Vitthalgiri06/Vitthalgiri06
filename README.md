@@ -1,16 +1,43 @@
-## Hi there 👋
+# Vithal Giri- Developer Portfolio
 
-<!--
-**Vitthalgiri06/Vitthalgiri06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Vithal Giri 👋
 
-Here are some ideas to get you started:
+This repository contains my learning journey, practice programs, and projects in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- C++
+- Data Structures & Algorithms
+- Frontend Web Development
+
+## Skills
+
+### Python
+- Basics
+- OOP
+- File Handling
+- Automation Projects
+
+### C++
+- STL
+- OOP Concepts
+- Competitive Programming
+
+### Data Structures
+- Arrays
+- Linked Lists
+- Stack & Queue
+- Trees
+- Graphs
+
+### Frontend Web Development
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Projects
+Coming Soon 🚀
+
+## Connect With Me
+- GitHub: https://github.com/Vithalgiri06
+- LinkedIn: Add your LinkedIn here
