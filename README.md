@@ -35,8 +35,7 @@ This repository contains my learning journey, practice programs, and projects in
 - JavaScript
 - React
 
-## Projects
-Coming Soon 🚀
+
 
 ## Connect With Me
 - GitHub: https://github.com/Vithalgiri06
